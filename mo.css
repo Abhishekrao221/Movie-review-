@@ -93,3 +93,9 @@
     background-color: white;
     color: black;
 }
+@Mmedia (max-width:600px) {
+
+    .box{
+        width:70%;
+        height:250px
+}
